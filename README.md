@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gatis Silnieks
+- 👋 Hi, I’m Gatis
 - 👀 I’m interested in Game Development, Mainly programming as I love creative problem solving.
 - 🌱 I’m currently learning Game Programming in Unreal Engine 5.
 - 💞️ I’m looking to collaborate on Creating fun to play and creative Games.
